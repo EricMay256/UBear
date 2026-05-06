@@ -1,6 +1,6 @@
 {
   "name": "com.ericmay256.ubear",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "displayName": "UBear Framework",
   "description": "Personal cross-project Unity library.",
   "unity": "6000.3",
@@ -14,6 +14,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "com.unity.inputsystem": "1.18.0"
+    "com.unity.inputsystem": "1.18.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
   }
 }
