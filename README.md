@@ -9,10 +9,11 @@ Add to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.ericmay.ubear": "https://github.com/EricMay256/UBear.git#v0.1.4"
+    "com.ericmay.ubear": "https://github.com/EricMay256/UBear.git#vLATEST"
   }
 }
 ```
+(Replace #vLATEST with the most recent available tag in the format #v1.2.3 for secure version pinning)
 
 Or via Unity Package Manager → "Add package from git URL..." with the same URL.
 
