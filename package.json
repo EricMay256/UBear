@@ -1,0 +1,19 @@
+{
+  "name": "com.ericmay256.ubear",
+  "version": "0.1.3",
+  "displayName": "UBear Framework",
+  "description": "Personal cross-project Unity library.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Eric May",
+    "url": "https://github.com/EricMay256"
+  },
+  "keywords": [
+    "framework",
+    "utilities"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.inputsystem": "1.18.0"
+  }
+}

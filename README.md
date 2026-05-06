@@ -1,0 +1,25 @@
+# UBear Framework
+
+Personal cross-project Unity library. Mechanism, not policy.
+
+## Installation
+
+Add to your project's `Packages/manifest.json`:
+
+```json
+{
+  "dependencies": {
+    "com.ericmay.ubear": "https://github.com/EricMay256/UBear.git#v0.1.0"
+  }
+}
+```
+
+Or via Unity Package Manager → "Add package from git URL..." with the same URL.
+
+## Versioning
+
+Semantic versioning. Pre-1.0, breaking changes can occur on minor bumps.
+
+## License
+
+MIT — see [LICENSE.md](LICENSE.md).

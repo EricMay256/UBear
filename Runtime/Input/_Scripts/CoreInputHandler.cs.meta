@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebdd365cee680a44ebb25908845db148
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onMoveInput: {instanceID: 0}
+  - onLookInput: {instanceID: 0}
+  - onJumpPressed: {instanceID: 0}
+  - onJumpReleased: {instanceID: 0}
+  - onFirePressed: {fileID: 11400000, guid: d96a8224e608bfc43ac068c521234b9e, type: 2}
+  - onFireReleased: {fileID: 11400000, guid: 5992278f7375cee4a9e7a83ac33a598b, type: 2}
+  - onSprintStateChanged: {instanceID: 0}
+  - onInteractActionPressed: {instanceID: 0}
+  - onInteractReleased: {instanceID: 0}
+  - onMenuPressed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
